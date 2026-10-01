@@ -3,11 +3,12 @@
 Software engineer focused on Flutter, React, Python, AI systems, and scalable business applications.
 
 ### Building
-- VeriStock → inventory & stock management platform
+- VeriStock → inventory & stock management platform for hotels
 - SouqNote → offline-first inventory system
-- Legalight → AI-powered legal assistant
+- StyleAddis → styleaddis.com
 - ServeFlow → designed to simplify and streamline the workflow of restaurants and hotels
 - ArifGet → Flutter mobile app for ArifGet.com
+- Legalight → AI-powered legal assistant
 
 ### Stack
 Flutter • Python • FastAPI • React • PHP • MySQL • AI inference • PostgreSQL
