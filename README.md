@@ -11,7 +11,7 @@ Software engineer focused on Flutter, React, Python, AI systems, and scalable bu
 - Legalight → AI-powered legal assistant
 
 ### Stack
-Flutter • Python • FastAPI • React • PHP • MySQL • AI inference • PostgreSQL
+Flutter • Python • Next.js • React • PHP • MySQL • AI inference • PostgreSQL
 
 ### Focus
 Business automation, scalable systems, AI integration, and practical software engineering.
