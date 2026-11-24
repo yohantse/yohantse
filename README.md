@@ -7,7 +7,7 @@ Software engineer focused on Flutter, React, Python, AI systems, and scalable bu
 - SouqNote → offline-first inventory system
 - StyleAddis → styleaddis.com
 - ServeFlow → designed to simplify and streamline the workflow of restaurants and hotels
-- ArifGet → Flutter mobile app for ArifGet.com
+- ArifGet → ArifGet.com
 - Legalight → AI-powered legal assistant
 
 ### Stack
